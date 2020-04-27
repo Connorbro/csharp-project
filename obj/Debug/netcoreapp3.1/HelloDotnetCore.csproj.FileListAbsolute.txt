@@ -1,0 +1,12 @@
+/Users/admin/Desktop/HelloDotnetCore/bin/Debug/netcoreapp3.1/HelloDotnetCore.deps.json
+/Users/admin/Desktop/HelloDotnetCore/bin/Debug/netcoreapp3.1/HelloDotnetCore.runtimeconfig.json
+/Users/admin/Desktop/HelloDotnetCore/bin/Debug/netcoreapp3.1/HelloDotnetCore.runtimeconfig.dev.json
+/Users/admin/Desktop/HelloDotnetCore/bin/Debug/netcoreapp3.1/HelloDotnetCore.dll
+/Users/admin/Desktop/HelloDotnetCore/bin/Debug/netcoreapp3.1/HelloDotnetCore.pdb
+/Users/admin/Desktop/HelloDotnetCore/obj/Debug/netcoreapp3.1/HelloDotnetCore.csprojAssemblyReference.cache
+/Users/admin/Desktop/HelloDotnetCore/obj/Debug/netcoreapp3.1/HelloDotnetCore.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/HelloDotnetCore/obj/Debug/netcoreapp3.1/HelloDotnetCore.AssemblyInfoInputs.cache
+/Users/admin/Desktop/HelloDotnetCore/obj/Debug/netcoreapp3.1/HelloDotnetCore.AssemblyInfo.cs
+/Users/admin/Desktop/HelloDotnetCore/obj/Debug/netcoreapp3.1/HelloDotnetCore.dll
+/Users/admin/Desktop/HelloDotnetCore/obj/Debug/netcoreapp3.1/HelloDotnetCore.pdb
+/Users/admin/Desktop/HelloDotnetCore/obj/Debug/netcoreapp3.1/HelloDotnetCore.genruntimeconfig.cache
