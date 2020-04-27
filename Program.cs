@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Runtime.Serialization.Json;
 
 namespace HelloDotnetCore
 {
@@ -11,6 +12,7 @@ namespace HelloDotnetCore
             {
                 var metadataFilePath = Path.Combine(subfolder, "metadata.json");
                 Console.WriteLine($"Reading {metadataFilePath}");
+                var metadataFileStream = File.Open(metadataFilePath, FileMode.Open);
             }
 
             
