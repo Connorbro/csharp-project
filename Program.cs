@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace HelloDotnetCore
 {
@@ -6,7 +7,12 @@ namespace HelloDotnetCore
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Connor!");
+            foreach(var subfolder in Directory.GetDirectories("/mnt/uploads"))
+            {
+                var metadataFilePath = Path.Combine(subfolder, "metadata.json");
+            }
+
+            
         }
     }
 }
