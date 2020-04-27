@@ -8,4 +8,5 @@ public class Metadata
 
     public  DateTime DateRecorded {get; set;}
     public System.Collections.Generic.List<string> Tags {get; set;}
+    public AudioFile  File {get; set;}
 }
