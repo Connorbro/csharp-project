@@ -10,6 +10,7 @@ namespace HelloDotnetCore
             foreach(var subfolder in Directory.GetDirectories("/mnt/uploads"))
             {
                 var metadataFilePath = Path.Combine(subfolder, "metadata.json");
+                Console.WriteLine($"Reading {metadataFilePath}");
             }
 
             
